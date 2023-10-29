@@ -1,18 +1,18 @@
 # xyz-delivery
 dispatch delivery company
 
-# XYZ DELIVERY CUSTOMER'S CLASS
+## XYZ DELIVERY CUSTOMER'S CLASS
 xyz want to understand their customers and to rank them acording to numbers of orders placed for the past three month, 
 this will help xyz to carry out targeted campaign and adds.
 for this task to be done xyz made use of the expectise of thier data/business Analyst, who help with some SQL codes.
 
-# # XYZ DELIVERY CUSTOMER'S LOCATION/BASE
+##  XYZ DELIVERY CUSTOMER'S LOCATION/BASE
 
 xyz business is growing speedly and the board of directors has aggreed to open two new branches,
 but it was said to be on the situated on the locations where the have the highest number of customers,
 and the second criteria for this is that the majority will exclude the "lower class customers".
 
-# Address, location_count
+### Address, location_count
 'Okuokoko', '134'
 'Osubi', '49'
 'Jakpa', '19'
